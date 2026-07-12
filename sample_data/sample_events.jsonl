@@ -1,0 +1,12 @@
+{"event_id": "E1001", "user_id": "U001", "event_type": "page_view", "timestamp": "2026-07-01T09:00:15Z", "page": "/home"}
+{"event_id": "E1002", "user_id": "U001", "event_type": "search", "timestamp": "2026-07-01T09:01:22Z", "query": "wireless mouse"}
+{"event_id": "E1003", "user_id": "U002", "event_type": "page_view", "timestamp": "2026-07-01T09:02:10Z", "page": "/products"}
+{"event_id": "E1004", "user_id": "U001", "event_type": "add_to_cart", "timestamp": "2026-07-01T09:03:40Z", "product_id": "P101"}
+{"event_id": "E1005", "user_id": "U003", "event_type": "login", "timestamp": "2026-07-01T09:05:00Z"}
+{"event_id": "E1006", "user_id": "U002", "event_type": "purchase", "timestamp": "2026-07-01T09:07:45Z", "order_id": "O5001"}
+{"event_id": "E1007", "user_id": "U001", "event_type": "purchase", "timestamp": "2026-07-01T09:08:12Z", "order_id": "O5002"}
+{"event_id": "E1008", "user_id": "U003", "event_type": "page_view", "timestamp": "2026-07-01T09:10:55Z", "page": "/account"}
+{"event_id": "E1009", "user_id": "U002", "event_type": "logout", "timestamp": "2026-07-01T09:12:03Z"}
+{"event_id": "E1010", "user_id": "U003", "event_type": "purchase", "timestamp": "2026-07-01T09:15:27Z", "order_id": "O5003"}
+{"event_id": "E1011", "user_id": "U002", "event_type": "purchase", "timestamp": "2026-07-02T09:15:27Z", "page": "/cart", "order_id": "O5004"}
+{"event_id": "E1012", "user_id": "U004", "event_type": "logout", "timestamp": "2026-07-03T09:15:27Z"}

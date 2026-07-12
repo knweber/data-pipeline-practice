@@ -1,0 +1,11 @@
+transaction_id,customer_id,customer_name,transaction_date,amount,currency,product
+TX1001,C001,Alice Chen,2026-07-01,49.99,USD,Wireless Mouse
+TX1002,C002,Bob Smith,2026-07-01,120.5,USD,Mechanical Keyboard
+TX1003,C001,Alice Chen,2026-07-02,15.75,USD,USB-C Cable
+TX1004,C003,Carlos Ruiz,2026-07-02,220.0,USD,Monitor
+TX1005,C002,Bob Smith,2026-07-03,35.25,USD,Mouse Pad
+TX1006,C004,Dana Patel,2026-07-03,79.99,USD,Webcam
+TX1007,C001,Alice Chen,2026-07-04,299.99,USD,Office Chair
+TX1008,C003,Carlos Ruiz,2026-07-04,18.5,USD,HDMI Cable
+TX1009,C004,Dana Patel,2026-07-05,650.0,USD,Laptop
+TX1010,C002,Bob Smith,2026-07-05,9.99,USD,Notebook
