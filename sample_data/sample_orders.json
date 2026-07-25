@@ -1,0 +1,16 @@
+[
+    {"order_id": "123", "order_total": 10.00, "customer_id": "2"},
+    {"order_id": "456", "order_total": 40.00, "customer_id": "6"},
+    {"order_id": "222", "order_total": 35.50, "customer_id": "8"},
+    {"order_id": "246", "order_total": 100.00, "customer_id": "5"},
+    {"order_id": "777", "order_total": 75.00, "customer_id": "1"},
+    {"order_id": "142", "order_total": 10.50, "customer_id": "10"},
+    {"order_id": "981", "order_total": 5.00, "customer_id": "7"},
+    {"order_id": "868", "order_total": 55.00, "customer_id": "6"},
+    {"order_id": "111", "order_total": 20.00, "customer_id": "4"},
+    {"order_id": "105", "order_total": 20.50, "customer_id": "9"},
+    {"order_id": "967", "order_total": 20.50, "customer_id": "3"},
+    {"order_id": "888", "order_total": 15.00, "customer_id": "10"},
+    {"order_id": "101", "order_total": 5.00, "customer_id": "5"},
+    {"order_id": "427", "order_total": 60.00, "customer_id": "2"}
+]

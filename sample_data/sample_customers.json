@@ -1,0 +1,12 @@
+[
+    {"customer_id": "1", "customer_name": "Bellamy Blake"},
+    {"customer_id": "2", "customer_name": "Clarke Griffin"},
+    {"customer_id": "3", "customer_name": "Anna Wintour"},
+    {"customer_id": "4", "customer_name": "Blair Waldorf"},
+    {"customer_id": "5", "customer_name": "Miranda Priestley"},
+    {"customer_id": "6", "customer_name": "Bonnie Bennett"},
+    {"customer_id": "7", "customer_name": "Caroline Forbes"},
+    {"customer_id": "8", "customer_name": "Harry Potter"},
+    {"customer_id": "9", "customer_name": "Hermione Granger"},
+    {"customer_id": "10", "customer_name": "Ron Weasley"}
+]
